@@ -1,0 +1,26 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar CSS",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar HTML",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar Git",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar NodeJS",
+        "estado": "Terminada"
+    },
+    {
+        "titulo": "Repasar React",
+        "estado": "Terminada"
+    }
+]
